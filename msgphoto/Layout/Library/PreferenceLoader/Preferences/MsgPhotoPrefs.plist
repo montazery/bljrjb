@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = MsgPhotoPrefs;
+	cell = PSLinkCell;
+	detail = MsgPhotoPrefsListController;
+	icon = MsgPhotoPrefs.png;
+	isController = 1;
+	label = MsgPhoto;
+    };
+}
